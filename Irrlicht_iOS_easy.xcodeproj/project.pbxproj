@@ -14,7 +14,6 @@
 		0A4DA4201D23A7530031E481 /* sydney.bmp in Resources */ = {isa = PBXBuildFile; fileRef = 0A4DA41E1D23A7530031E481 /* sydney.bmp */; };
 		0A4DA4211D23A7530031E481 /* sydney.md2 in Resources */ = {isa = PBXBuildFile; fileRef = 0A4DA41F1D23A7530031E481 /* sydney.md2 */; };
 		0A4DA4221D23A9780031E481 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A3427981D23889200AFC56D /* UIKit.framework */; };
-		0A4F1FE61D20C958007F5CEB /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0A4F1A8F1D20C8A0007F5CEB /* AppDelegate.mm */; };
 		0A4F1FE71D20C95A007F5CEB /* ViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0A4F1A921D20C8A0007F5CEB /* ViewController.mm */; };
 		0A4F200C1D20C9C9007F5CEB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A4F1A941D20C8A0007F5CEB /* Main.storyboard */; };
 		0A4F200D1D20C9D3007F5CEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A4F1A991D20C8A0007F5CEB /* LaunchScreen.storyboard */; };
@@ -2161,8 +2160,6 @@
 		0A4DA41E1D23A7530031E481 /* sydney.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = sydney.bmp; sourceTree = "<group>"; };
 		0A4DA41F1D23A7530031E481 /* sydney.md2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = sydney.md2; sourceTree = "<group>"; };
 		0A4F1A881D20C8A0007F5CEB /* Irrlicht_iOS_easy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Irrlicht_iOS_easy.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0A4F1A8E1D20C8A0007F5CEB /* AppDelegate.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = AppDelegate.hpp; sourceTree = "<group>"; };
-		0A4F1A8F1D20C8A0007F5CEB /* AppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = AppDelegate.mm; sourceTree = "<group>"; };
 		0A4F1A911D20C8A0007F5CEB /* ViewController.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ViewController.hpp; sourceTree = "<group>"; };
 		0A4F1A921D20C8A0007F5CEB /* ViewController.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = ViewController.mm; sourceTree = "<group>"; };
 		0A4F1A951D20C8A0007F5CEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -5084,8 +5081,6 @@
 			children = (
 				0A4DA41E1D23A7530031E481 /* sydney.bmp */,
 				0A4DA41F1D23A7530031E481 /* sydney.md2 */,
-				0A4F1A8E1D20C8A0007F5CEB /* AppDelegate.hpp */,
-				0A4F1A8F1D20C8A0007F5CEB /* AppDelegate.mm */,
 				0A4F1A911D20C8A0007F5CEB /* ViewController.hpp */,
 				0A4F1A921D20C8A0007F5CEB /* ViewController.mm */,
 				0A4F1A941D20C8A0007F5CEB /* Main.storyboard */,
@@ -5497,7 +5492,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A4F1FE61D20C958007F5CEB /* AppDelegate.mm in Sources */,
 				0A4F1FE71D20C95A007F5CEB /* ViewController.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

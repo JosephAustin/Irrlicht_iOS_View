@@ -1,0 +1,26 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "dfc29bdd-3216-0410-991c-e03cc46cb475++505" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "dfc29bdd-3216-0410-991c-e03cc46cb475++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CA0B41ED-66C8-4BF3-8852-48EF5FE01181",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "dfc29bdd-3216-0410-991c-e03cc46cb475++505" : "Irrlicht_iOS_easy\/Irrlicht_iOS_easy\/irrlicht\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Irrlicht_iOS_easy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Irrlicht_iOS_easy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.code.sf.net\/p\/irrlicht\/code",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "dfc29bdd-3216-0410-991c-e03cc46cb475++505"
+    }
+  ]
+}
